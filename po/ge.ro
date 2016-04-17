@@ -1,8 +1,7 @@
 # Workrave
 # Copyright (C) 2002, 2003, 2004 Rob Caelers & Raymond Penners
 # This file is distributed under the same license as the Workrave package.
-# Sergey Kirkinsky <ksa@pfr.altai.ru>, 2004
-# Andrey Bondrov <abondrov@rosalab.ru>, 2012
+# Zaza Chugoshvili <zazachugo@gmail.com>, 2016
 # 
 msgid ""
 msgstr ""
@@ -20,28 +19,28 @@ msgstr ""
 #: ../backend/src/DistributionSocketLink.cc:131
 #, c-format
 msgid "Reconnecting to %s."
-msgstr "Повторно соединиться с %s."
+msgstr "ხელახლა შეერთება %s."
 
 #. We did not succeed in starting the server. Arghh.
 #: ../backend/src/DistributionSocketLink.cc:432
 msgid "Could not enable network operation."
-msgstr "Сетевые операции недоступны."
+msgstr "ქსელური ოპერაციები  ხელმისაწვდომი არ არის."
 
 #: ../backend/src/DistributionSocketLink.cc:441
 msgid "Disabling network operation."
-msgstr "Отмена сетевых операций."
+msgstr "ქსელური ოპერაციების გაუქმება."
 
 #: ../backend/src/DistributionSocketLink.cc:557
 #: ../backend/src/DistributionSocketLink.cc:594
 #, c-format
 msgid "Connecting to %s."
-msgstr "Соединение с %s."
+msgstr "%s-თან შეერთება."
 
 #: ../backend/src/DistributionSocketLink.cc:712
 #: ../backend/src/DistributionSocketLink.cc:745
 #, c-format
 msgid "Removing client %s."
-msgstr "Удаление клиента %s."
+msgstr "კლიენტის წაშლა %s."
 
 #. Closing direct connection.
 #: ../backend/src/DistributionSocketLink.cc:794
